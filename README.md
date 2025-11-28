@@ -18,7 +18,7 @@
 
 📸 **Preview:**
 <p align="center">
-  <img src="Recording 2025-11-22 215526.gif" width="700" alt="3D Solar System Preview"/>
+  <img src="3D-Solar-System.gif" width="700" alt="3D Solar System Preview"/>
 </p>
 
 ---
@@ -97,5 +97,6 @@ Sai Charan Janagama<br>
 📧 [Email Me](saic89738@gmail.com) ↗<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/saicharanjanagama/) ↗<br>
 💻 [GitHub](https://github.com/SaiCharanJanagama) ↗
+
 
 
